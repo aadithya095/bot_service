@@ -11,7 +11,11 @@ return Application::configure(basePath: dirname(__DIR__))
         health: '/up',
     )
     ->withMiddleware(function (Middleware $middleware): void {
-        //
+        $middleware->validateCsrfTokens(except: [
+           'webhook/teams',
+           'webhook/whatsapp',
+           'api/broadcast',
+       ]);
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         //

@@ -35,4 +35,18 @@ return [
         ],
     ],
 
+    'teams' => [
+        'app_id' => env('TEAMS_APP_ID'),
+        'app_secret' => env('TEAMS_APP_SECRET'),
+    ],
+
+    'whatsapp' => [
+        'verify_token' => env('WHATSAPP_VERIFY_TOKEN'),
+        'access_token' => env('WHATSAPP_ACCESS_TOKEN'),
+        'phone_number_id' => env('WHATSAPP_PHONE_NUMBER_ID'),
+    ],
+    'broadcast' => [
+        'token' => env('BROADCAST_TOKEN'),
+    ],
+
 ];

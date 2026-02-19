@@ -1,0 +1,54 @@
+[90m= [39m[
+    {#5365
+      +"[1mTables_in_bot_service[22m": "[32mbot_attachments[39m",
+    },
+    {#5367
+      +"[1mTables_in_bot_service[22m": "[32mbot_messages[39m",
+    },
+    {#5368
+      +"[1mTables_in_bot_service[22m": "[32mbot_sessions[39m",
+    },
+    {#5363
+      +"[1mTables_in_bot_service[22m": "[32mbot_users[39m",
+    },
+    {#5352
+      +"[1mTables_in_bot_service[22m": "[32mcache[39m",
+    },
+    {#5362
+      +"[1mTables_in_bot_service[22m": "[32mcache_locks[39m",
+    },
+    {#5361
+      +"[1mTables_in_bot_service[22m": "[32mfailed_jobs[39m",
+    },
+    {#5360
+      +"[1mTables_in_bot_service[22m": "[32mforum_posts[39m",
+    },
+    {#5359
+      +"[1mTables_in_bot_service[22m": "[32mforums[39m",
+    },
+    {#5358
+      +"[1mTables_in_bot_service[22m": "[32minvoices[39m",
+    },
+    {#5380
+      +"[1mTables_in_bot_service[22m": "[32mjob_batches[39m",
+    },
+    {#5381
+      +"[1mTables_in_bot_service[22m": "[32mjobs[39m",
+    },
+    {#5382
+      +"[1mTables_in_bot_service[22m": "[32mmeetings[39m",
+    },
+    {#5383
+      +"[1mTables_in_bot_service[22m": "[32mmigrations[39m",
+    },
+    {#5384
+      +"[1mTables_in_bot_service[22m": "[32mpassword_reset_tokens[39m",
+    },
+    {#5385
+      +"[1mTables_in_bot_service[22m": "[32msessions[39m",
+    },
+    {#5386
+      +"[1mTables_in_bot_service[22m": "[32musers[39m",
+    },
+  ]
+
